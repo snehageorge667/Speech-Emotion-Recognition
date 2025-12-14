@@ -1,7 +1,7 @@
 # Speech-Emotion-Recognition
 A Python project to detect human emotions from speech audio using machine learning and deep learning techniques. Supports emotions like happy, sad, angry, neutral, etc.
 
-Features
+# Features
 
 Audio feature extraction (MFCC, Chroma, Mel Spectrogram)
 
@@ -9,7 +9,7 @@ Emotion classification using ML/DL models
 
 Predict emotions from new audio files
 
-Technologies
+# Technologies
 
 Python, librosa, numpy, pandas, scikit-learn, tensorflow/keras
 
